@@ -1,0 +1,22 @@
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Android/IntelliJ
+build/
+.idea
+.gradle
+local.properties
+*.keystore
+!debug.keystore
+
+# Xcode
+build/
+xcuserdata
+DerivedData
+ios/.xcode.env.local
+
+# Temporary files
+.metro-health-check*
+/coverage
